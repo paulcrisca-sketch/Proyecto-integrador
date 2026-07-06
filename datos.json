@@ -1,0 +1,138 @@
+
+{
+    "Calderón": {
+        "pesos": [
+            0.4,
+            0.4,
+            0.2
+        ],
+        "barrios": {
+            "Carapungo": [
+                {
+                    "nombre": "Repotenciación de áreas verdes y canchas",
+                    "costo": 8000.0,
+                    "notas": [
+                        8.0,
+                        10.0,
+                        9.0
+                    ]
+                }
+            ],
+            "Oyacoto": [
+                {
+                    "nombre": "Alcantarillado",
+                    "costo": 30000.0,
+                    "notas": [
+                        9.0,
+                        4.0,
+                        5.0
+                    ]
+                }
+            ],
+            "San Juan de Calderón": [
+                {
+                    "nombre": "Pavimentación y aceras",
+                    "costo": 20000.0,
+                    "notas": [
+                        6.0,
+                        7.0,
+                        8.0
+                    ]
+                }
+            ]
+        },
+        "indice_pobreza": 28.0,
+        "nbi": 32.0,
+        "densidad_poblacional": 95.0
+    },
+    "Conocoto": {
+        "pesos": [
+            0.3,
+            0.3,
+            0.4
+        ],
+        "barrios": {
+            "Ontaneda": [
+                {
+                    "nombre": "Alcantarillado y colectores pluviales",
+                    "costo": 35000.0,
+                    "notas": [
+                        10.0,
+                        5.0,
+                        6.0
+                    ]
+                }
+            ],            
+            "Centro de Conocoto": [
+                {
+                    "nombre": "Modernización del alumbrado a LED",
+                    "costo": 12000.0,
+                    "notas": [
+                        7.0,
+                        9.0,
+                        10.0
+                    ]
+                }
+            ],
+            "El Deán": [
+                {
+                    "nombre": "Adoquinado de calles",
+                    "costo": 18000.0,
+                    "notas": [
+                        5.0,
+                        6.0,
+                        8.0
+                    ]
+                }
+            ]
+        },
+        "indice_pobreza": 19.0,
+        "nbi": 24.0,
+        "densidad_poblacional": 60.0
+    },
+    "Puengasí": {
+        "pesos": [
+            0.4,
+            0.4,
+            0.2
+        ],
+        "barrios": {
+            "Alma Lojana": [
+                {
+                    "nombre": "Muro de contención",
+                    "costo": 40000.0,
+                    "notas": [
+                        10.0,
+                        8.0,
+                        5.0
+                    ]
+                }
+            ],
+            "Monjas Bajo": [
+                {
+                    "nombre": "Casa comunal - centro de capacitación",
+                    "costo": 15000.0,
+                    "notas": [
+                        8.0,
+                        7.0,
+                        8.0
+                    ]
+                }
+            ],
+            "Obrero Independiente": [
+                {
+                    "nombre": "Alumbrado público",
+                    "costo": 10000.0,
+                    "notas": [
+                        9.0,
+                        8.0,
+                        9.0
+                    ]
+                }
+            ]
+        },
+        "indice_pobreza": 34.0,
+        "nbi": 38.0,
+        "densidad_poblacional": 210.0
+    }
+}
